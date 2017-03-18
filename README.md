@@ -1,4 +1,4 @@
-﻿## Coursera_Algorithmic-Toolbox##
+## Coursera_Algorithmic-Toolbox ##
 https://www.coursera.org/learn/algorithmic-toolbox
 
 My C++ code solution of Algorithmic-Toolbox course from Coursera.
